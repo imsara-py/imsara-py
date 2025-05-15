@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Python developer passionate about solving re
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [MindVault](https://github.com/imsara-py/MindVault) | A secure, local (offline) password manager with a graphical user interface. Built with Python and PyQt5 to provide a simple and safe way to store passwords. | Python, PyQt5, SQL |
+| [MindVault](https://github.com/imsara-py/MindVault) | A secure, local (offline) password manager with a graphical user interface. Built with Python and PyQt5 to provide a simple and safe way to store passwords. | Python, PyQt5 |
 
 ---
 
