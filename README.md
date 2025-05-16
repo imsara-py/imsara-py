@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a Python developer passionate about solving re
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [MindVault](https://github.com/imsara-py/MindVault) | A secure, local (offline) password manager with a graphical user interface. Built with Python and PyQt5 to provide a simple and safe way to store passwords. | Python, PyQt5 |
+| [DevMate-AI](https://github.com/hamadasyr/DevMate-AI) | Contributor: An AI desktop assistant built with Python, PyQt5, and Gemini APIs. | Python, PyQt5 |
 
 ---
 
